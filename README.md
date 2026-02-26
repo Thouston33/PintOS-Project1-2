@@ -50,4 +50,4 @@ Getting this right required careful pointer arithmetic and close adherence to th
 
 ## Notes
 
-This repository contains Projects 1 and 2 only. Projects 3 (Virtual Memory) and 4 (File Systems) are not included. Per academic integrity policy, source code is available upon request to recruiters and employers but is not publicly displayed.
+This repository contains Projects 1 and 2 only. Projects 3 (Virtual Memory) and 4 (File Systems) are not included.
